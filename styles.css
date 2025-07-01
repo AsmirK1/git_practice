@@ -7,3 +7,12 @@ img:hover{
      width: 600px;
     height: 600px;
 }
+#matrixHading{
+    background-image: url("./imge/matrix.png");
+    height: 100px;
+    color: aqua;
+    h1{
+        align-items: center;
+    }
+    
+}

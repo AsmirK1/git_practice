@@ -1,3 +1,22 @@
+header{
+    background-color: aqua;
+    align-items: center;
+
+    nav{
+        background-color: aquamarine;
+        align-items: center;
+
+        li{
+            display: inline;
+        }
+        li:hover{
+            color: aliceblue;
+        }
+        
+    }
+   
+
+}
 img{
     width: 200px;
     height: 200px;
@@ -14,5 +33,4 @@ img:hover{
     h1{
         align-items: center;
     }
-    
 }

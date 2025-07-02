@@ -6,11 +6,19 @@ header{
         background-color: aquamarine;
         align-items: center;
 
+        ul{
+            position:relative;
+            left: 60%;
+            
+        }
+
         li{
             display: inline;
+            border-right: 1px solid aquamarine;
         }
         li:hover{
-            color: aliceblue;
+            color: red;
+            background-color: antiquewhite;
         }
         
     }
